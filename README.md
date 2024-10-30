@@ -11,3 +11,10 @@ consists of medical entrance exam questions and answers for a variety of differe
 
 ## 2D Examples
 ### tSNE
+![tSNE Plot](./2D_Graphs/tSNE_2D.png)
+
+### UMAP
+![UMAP Plot](./2D_Graphs/UMAP_2D.png)
+
+### PCA
+![PCA Plot](./2D_Graphs/PCA_2D.png)
